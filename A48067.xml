@@ -1,0 +1,276 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Lucifer to his Roman agents N.T., W.P., J.F., &amp; R.L., Sir Edmond-bury Godfrey's back-friends</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48067</idno>
+            <idno type="STC">Wing L1488</idno>
+            <idno type="STC">ESTC R30941</idno>
+            <idno type="EEBO-CITATION">11732072</idno>
+            <idno type="OCLC">ocm 11732072</idno>
+            <idno type="VID">48399</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48067)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48399)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1486:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Lucifer to his Roman agents N.T., W.P., J.F., &amp; R.L., Sir Edmond-bury Godfrey's back-friends</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Charles Lee,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"A present from an unknown friend, to Sir Edmond-bury Godfrey's brothers" -- p. 3-4 in verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Godfrey, Edmund Berry, --  Sir, 1621-1678.</term>
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:48399:1"/>
+            <pb n="1" facs="tcp:48399:1"/>
+            <head>A Letter from Lucifer, TO HIS Roman Agents <hi>N. T. W. P. J. F.</hi> &amp; <hi>R. L.</hi> Sir <hi>Edmond-bury Godfrey</hi>'s Back-friends.</head>
+            <p>NO leſs than a Legion of Devils have been mixt in Counſel with an Army of Papiſts, to make Sir <hi>Edmond bury Godfrey Felo de Se.</hi> Oh, how diligent has <hi>N. T.</hi> that over-loyal Proteſtant been in the ſervice! He (no doubt) was made Meſſenger to the De<g ref="char:EOLhyphen"/>vil's back-ſtairs, and ſent by his Maſter <hi>Pluto</hi> the Prince of the Air, to procure two Fellows that would ſwear whatever that Helliſh Coun<g ref="char:EOLhyphen"/>cil would dictate to them, or elſe to bid Farewel to the hopes of Gold, and the ſale of his Popiſh Pamphlets; and now he's in pain till Mother <hi>Celier,</hi> by the help of her Imps, brings him to Bed of two or three ſuch Demi-Devils as will ſwear that he ſtab'd himſelf at home, choakt himſelf at <hi>Somerſet</hi>-houſe, and then ran two or three miles to gather Primeroſes for his laſt Noſegay. Such they ſay that never-failing Friend to the Popiſh Intereſt has got him; but whether a Rope or a Pillory muſt be their Reward, time muſt tell us.</p>
+            <p>One would have thought <hi>Redding</hi>'s miſcarriage in a different Enterprize, and the fate that attended it, might have put a period to the reſt of their Shams: If an eminent Counſellor was bawk'd in his premeditated Contri<g ref="char:EOLhyphen"/>vance, what will become of the Pimping Sollicitor? No doubt he has <hi>Lang<g ref="char:EOLhyphen"/>horn</hi> in his Heart, and Gold in his Eye; the remembrance of the one, and his zeal for the other, will make him ſwear home.</p>
+            <p>But heark you, my hot-mouth'd Friends, have you not read Sir <hi>Edmond-bury Godfrey</hi>'s Apparition to <hi>Nat. Thompſon?</hi> methinks if you have, it would a little retard your motion: Why this haſte to the Devil? Go on fair and ſoftly; my life for yours you'll come time enough to Hell. What Jeſuitical Doctrine makes you gallop ſo faſt to your own deſtruction? are you weary of Earth? and do you long to ſee the Faſhions of the Devil's low Countries? then ride upon that Horſe you have lately mounted, and I'll warrant you he'll carry you ſafe to your Journeys end: Poſſibly you may meet with ſome rubs of Conſcience by the way, that may make him ſtumble a little; but if you have taken a reſolution never to mind them, whip on, and doubt not but you'll come to your Journeys end in good time.</p>
+            <p>If you can but go through-ſtitch with this Work which you have taken in hand, the Popiſh Plot will be hid in Embers, and the Papiſts may hope to ſing <hi>Te Deums</hi> in a little time in every Church in Town. This is your Maſter-piece: if you can dexterouſly compleat this deſigne, what can you not do? what Taſk can be too hard for you? You may even remove Mountains, if they lie in your way. If you ſwear effectually to this Murther, ſo as the ſtain of this Juſtice's Bloud is waſht off from the Papiſts, oh, how ſhould I curſe my Stars, that I found you no ſooner! two of you would have done more for the Popiſh Intereſt, than two thouſand St. <hi>Omers</hi> Lads. Pox on your ſlow heels, why were ye not at <hi>Langhorn</hi>'s Tryal? why is your Con<g ref="char:EOLhyphen"/>trivance ſo late? It had been ſome hundreds of pounds in your way, if you
+<pb n="2" facs="tcp:48399:2"/>had come to deliver old <hi>Will. Stafford</hi> from the hands of mercileſs <hi>Ketch:</hi> Come ye now, when all the Roman Martyrs are lockt up in their Coffins, and as faſt aſleep as a Rope and an Ax could make them? Come ye now, when the Plot is laid waſte to your hands? Had you come in time, the Meal tub-Plot would never have miſcarried; and with much more difficulty the Earl of <hi>Shaftsbury</hi> and the Lord <hi>Howard</hi> of <hi>Eſcrick,</hi> and Mr. <hi>Whittaker,</hi> had e<g ref="char:EOLhyphen"/>ſcaped the Snare laid for them: but better late than never; though you come late, you are not come too late, if you can but ſwear home to the matter in hand. Now the Scales are almoſt even, whether a Plot or no Plot, is the Queſtion in diſpute; if you can thurn the Scale, then i' faith we'll pick the Whigs, that have made this Popiſh Sham-plot to hide their own: Wo be to them that have ſhed the Roman Martyrs bloud: Then we'll call Father <hi>Plun<g ref="char:EOLhyphen"/>ket</hi>'s Impudence, his Innocence; and every thing ſhall look with other co<g ref="char:EOLhyphen"/>lours, and with another countenance, than now they do. A Whig ſhall not dare to ſay his Soul's his own; and though it's againſt their Reaſon and Con<g ref="char:EOLhyphen"/>ſcience, we'll make them turn Abhorrers and Addreſſors. They'd <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> good take a Bear by the Tooth, or a Lion by the Throat, as come with their <hi>Ifs</hi> in point of Succeſſion, let him be Pope or Devil that comes to reign over them.</p>
+            <p>Let me adviſe you how to harden your ſelves, ſo that you may ſwear with<g ref="char:EOLhyphen"/>out any manner of remorſe or fear:</p>
+            <p>
+               <hi>First,</hi> Keep your Correſpondence with the Prieſts and Jeſuits more fre<g ref="char:EOLhyphen"/>quently now than ever, and they'll tell you, you do God good ſervice by the worſt of your Oaths, that tend to the Ruine of the Proteſtant Religion. And then,</p>
+            <p>
+               <hi>Secondly,</hi> Learn to frame new Lyes every day, and ſwear they are as true as the Goſpel; thus cuſtom of Sinning will take away the conſcience of Sin<g ref="char:EOLhyphen"/>ning.</p>
+            <p>
+               <hi>Thirdly,</hi> Meditate on your promis'd Reward, when you have brought your Work to perfection; <hi>viz.</hi> the Gold you ſhall have here, and the Honour you ſhall have hereafter, when the Pope regains his Arrears in this Kingdom.</p>
+            <p>
+               <hi>Fourthly,</hi> Put God Omnipotent always out of your mind, and let me that am Magnipotent be in your thoughts; 'tis I that muſt back you in this Un<g ref="char:EOLhyphen"/>dertaking: for what has God to do with this buſineſs? the Work is mine, and I'll help you to finiſh it.</p>
+            <p>
+               <hi>Laſtly,</hi> Never give ear to the Whiſperings of Conſcience; I know your Conſciences will be ſpeaking to you thus: Oh, be careful what you ſwear, be tender of his Repute that di'd for you, whoſe Death gave you the Watch-word to look to your ſelves; Conſcience will tell you, the Oath you are about to ſwear is a ſin againſt God, againſt your King, and againſt all his Proteſtant Subjects; but what is that to you? what have you to do with their Religi<g ref="char:EOLhyphen"/>on, further than to deſtroy it? Mind your Conſcience no more than the Moon minds the barking of a Dog; whenever it offers you any ſervice, bid it be gone: for it's an Enemy to your preſent Intereſt. Read over your Promiſes, to put it out of your thoughts: <hi>Imprimis,</hi> 1000 <abbr>
+                  <hi>l.</hi>
+               </abbr> from the Pope, for ſwea<g ref="char:EOLhyphen"/>ring that Sir <hi>Edmond-bury Godfrey</hi> Hang'd himſelf. <hi>Item,</hi> 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> from the Earl of <hi>Pow Item,</hi> 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> from the Lord <hi>Pet. Item,</hi> 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> from the Lord <hi>Bell. Item,</hi> 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> from a Lord with a ſingle Eye and a double Heart. <hi>Item,</hi> a general Contribution from all the Papiſts in <hi>England.</hi> And this <hi>Summa To talis</hi> will be ſo pleaſing to your covetous deſires, that in a little time you will be as able to kick Conſcience out of doors, as the Yea-and-nay-man was to kick the God-damn-me-man down ſtairs.</p>
+         </div>
+         <div type="poem">
+            <pb n="3" facs="tcp:48399:2"/>
+            <head>A PRESENT from an unknown Friend, TO Sir <hi>Edmond-bury Godfrey</hi>'s BROTHERS.</head>
+            <lg>
+               <l>YOur Brother's murther'd or'e and or'e again;</l>
+               <l>They put his precious Memory to pain:</l>
+               <l>Now they make woful work with his ſweet Name,</l>
+               <l>To our great Grief, but to their matchleſs ſhame.</l>
+               <l>Was't not enough to choak and ſtab him too?</l>
+               <l>Must they his Reputation quite undo?</l>
+               <l>What will their Fury never have an end?</l>
+               <l>Will they ſtill ſtab and hang our martyr'd Friend?</l>
+               <l>Have they no Modeſty, no Senſe, nor Zeal?</l>
+               <l>Do they the pangs of Conſcience never feel?</l>
+               <l>Where will their Killany and Malice rest?</l>
+               <l>Why do they his most ſacred Corpſe molest?</l>
+               <l>What had he done? or, oh! what had he ſaid,</l>
+               <l>That he ſo dearly for his Actions paid?</l>
+            </lg>
+            <lg>
+               <l>Oh, he dealt juſtly! 'twas too great a Crime,</l>
+               <l>If you will weigh both Circumſtance and Time.</l>
+               <l>Cou'd he have daub'd or plaiſter'd or'e the Guilt</l>
+               <l>Of Papiſts, then his Bloud had ne'er been ſpilt:</l>
+               <l>Cou'd he have ſail'd with the Pope's Wind and Tyde,</l>
+               <l>Neither his Life, nor his Repute had dy'd.</l>
+            </lg>
+            <lg>
+               <l>But now for doing Juſtice, this curſt Crew</l>
+               <l>Their bloudy Hands within his Breaſt embrew.</l>
+               <l>Oh, horrid Villains! are you not afraid</l>
+               <l>To have your Actions by ſuch Actions paid?</l>
+            </lg>
+            <lg>
+               <l>Lord, why ſo ſlow? why doth this lingring Rod</l>
+               <l>Forbear, ſince they forget there is a God?</l>
+               <l>Why are thy Saints, thy martyr'd Saints abus'd?</l>
+               <l>And why's ſo very much of Mercy us'd?</l>
+               <l>Becauſe thou'rt ſlow, they think thou doſt forget;</l>
+               <l>Therefore theſe Villains dance in their own Net.</l>
+               <l>But, oh, make bare thy Arm, come forth, O Lord,</l>
+               <l>And ſhew them that thou haſt a three-edg'd Sword:</l>
+               <l>One edge for <hi>Nat,</hi> another edge for <hi>Pain,</hi>
+               </l>
+               <l>And one for <hi>Farwell,</hi> ſuch as ſwear for gain.</l>
+               <l>Thoſe that divide thy People without cauſe,</l>
+               <l>On them (Lord) execute thy fierceſt Laws.</l>
+               <l>Thy Patience makes them ſtudy to do Evil;</l>
+               <l>They're ſtriving who ſhould firſt go to the Devil:</l>
+               <l>
+                  <hi>Nat</hi> rides the winged Horſe, he's in ſuch haſte,</l>
+               <l>And thinks the time he ſtays he does but waſte.</l>
+            </lg>
+            <lg>
+               <l>It's ſtrange to ſee at what great pains and cost,</l>
+               <l>Theſe Villains to the Devil do ride Post:</l>
+               <l>How eager they're to get a place in Hell,</l>
+               <l>Where perjur'd Raskals must for ever dwell.</l>
+               <pb n="4" facs="tcp:48399:3"/>
+               <l>They think we bid them loſs, if we cry, Stay,</l>
+               <l>Oh, ſtop your courſe, and make ſome ſmall delay;</l>
+               <l>Conſider what you do, and where you go,</l>
+               <l>What pain and miſery you're like to know.</l>
+            </lg>
+            <lg>
+               <l>This is lost breath, they do not thank you for it;</l>
+               <l>Nay, let me tell you, that they do abhor it:</l>
+               <l>They'd rather go to Hell, than take advice</l>
+               <l>From Whigs, though never at ſo ſmall a price.</l>
+               <l>A ſober Whig cries out, Proceed no further</l>
+               <l>About Sir, <hi>Edmond-bury Godfrey</hi>'s Murther:</l>
+               <l>Be wiſe and wary, ere it is too late,</l>
+               <l>And do not gain the King and Kingdoms hate,</l>
+               <l>For fear your Necks ſalute a Hempen Fate.</l>
+            </lg>
+            <lg>
+               <l>But piſh, cry they, let's on a full Car<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er,</l>
+               <l>And ſhew that neither God nor Man we fear:</l>
+               <l>Let's ſwear, forſwear; what if we perjur'd be?</l>
+               <l>The worst we know is but the Triple Tree:</l>
+               <l>Alas, a ſight of Hell they do not ſee.</l>
+               <l>Theſe Hawks have golden Hoods before their Eyes,</l>
+               <l>They ſee not where their greateſt miſchief lies:</l>
+               <l>The God of this World blinds them, we do find;</l>
+               <l>With golden Wedges ev'ry Pocket's lin'd:</l>
+               <l>Conſcience is ſear'd, a Mill-ſtone's not more hard;</l>
+               <l>Their Eyes are onely fixt on their Reward:</l>
+               <l>Hopes of Preferment, and ſome preſent Pay,</l>
+               <l>Doth ſteal their Wit and Senſes quite away.</l>
+               <l>And if their Gold and Silver heaps may ſwell,</l>
+               <l>They'll dread no danger, till they drop to Hell.</l>
+            </lg>
+            <lg>
+               <l>But are theſe all the Devil nam'd before?</l>
+               <l>I fancy I could gueſs there's yet one more.</l>
+               <l>May not <hi>Rogero</hi> come in for a Snack,</l>
+               <l>Who doth his Fancy ſtrain, and his Brains crack,</l>
+               <l>To ſhield the Papiſts and the Popiſh Cauſe,</l>
+               <l>E'en to the utmost, with his Roman Paws?</l>
+               <l>
+                  <hi>Strange Le</hi> the Knave doth write in their defence;</l>
+               <l>
+                  <hi>Joanna</hi> with her <hi>Broom</hi> ſweeps him ſome Pence;</l>
+               <l>That is one reaſon: but the Rogue doth hope</l>
+               <l>For far more comfort from his Lord the Pope.</l>
+               <l>Were it not for the Popiſh Pence, I'm ſure</l>
+               <l>His ſcribling pains he never wou'd endure;</l>
+               <l>He'd rather chuſe to fiddle to the Dogs</l>
+               <l>That ſometimes dance, and ſometimes run at Hogs.</l>
+               <l>This is his Harveſt time; when th' Commons ſits,</l>
+               <l>He muſt pike off, they'll fright him out on's Wits:</l>
+               <l>If hanging does not ſtop him, he will flie</l>
+               <l>To <hi>France</hi> as faſt as ever he can hie;</l>
+               <l>There like a Vagabond the Knave may range,</l>
+               <l>And this will be the fate of <hi>R. L'Eſtrange.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: <hi>Printed for</hi> Charles Lee. <hi>1682.</hi>
+            </p>
+            <pb facs="tcp:48399:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
